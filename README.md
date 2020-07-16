@@ -1,6 +1,7 @@
-Hi, I'm Victor - a Nigeria-based Frontend Engineer/Product Designer. I recently counted 3 years of designing & building interfaces on the web. It's been a great journey so far💪🏾.  
+# Hi,
+I'm Victor - a Nigeria-based Frontend Engineer/Product Designer. I recently counted 3 years of designing & building interfaces on the web. It's been a great journey so far💪🏾.  
 
-Here are a few things I'm currently learning about
+## I'm currently learning about
 
 🧰 Design Systems <br/>
 🗺 Software Engineering Workflows <br/>

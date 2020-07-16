@@ -8,6 +8,7 @@ I'm Victor - a Nigeria-based Frontend Engineer/Product Designer. I recently coun
 🤯 Web Standards & Future Web <br/>
 👨🏾‍🦳 JavaScript (TypeScript) & recently C# <br/>
 ☁ cloud computing & serverless <br/>
+🍽 Making great food. On every attempt.
 
 I mostly work with ⚛ ReactJS & Friends (Emotion, Storybook, Ant Design, Jest, etc) on the frontend. Currently dipping my toes into fullstack development.
 

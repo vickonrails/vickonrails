@@ -3,10 +3,11 @@ I'm Victor - a Nigeria-based Frontend Engineer/Product Designer. I recently coun
 
 ## I'm currently learning about
 
-🧰 Design Systems <br/>
+🧰 Design Systems<br/>
 🗺 Software Engineering Workflows <br/>
 🤯 Web Standards & Future Web <br/>
 👨🏾‍🦳 JavaScript (TypeScript) & recently C# <br/>
+📱 Cross-platform mobile development with React Native
 ☁ cloud computing & serverless <br/>
 🍽 Making great food. On every attempt.
 

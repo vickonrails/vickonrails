@@ -7,7 +7,7 @@ I'm Victor - a Nigeria-based Frontend Engineer/Product Designer. I recently coun
 🗺 Software Engineering Workflows <br/>
 🤯 Web Standards & Future Web <br/>
 👨🏾‍🦳 JavaScript (TypeScript) & recently C# <br/>
-📱 Cross-platform mobile development with React Native
+📱 Cross-platform mobile development with React Native <br/>
 ☁ cloud computing & serverless <br/>
 🍽 Making great food. On every attempt.
 

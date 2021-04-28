@@ -1,5 +1,5 @@
 # Hi,
-I'm Victor - Frontend Engineer/Product Designer. I recently counted 3 years of designing & building interfaces on the web. It's been a great journey so far💪🏾.  
+I'm Victor - Software Engineer/Product Designer. I recently counted 3 years of designing & building interfaces on the web. It's been a great journey so far💪🏾.  
 
 ## I'm currently learning about
 

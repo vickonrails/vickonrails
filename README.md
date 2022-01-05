@@ -1,17 +1,11 @@
-# Hi,
-I'm Victor - Software Engineer/Product Designer. I recently counted 3 years of designing & building interfaces on the web. It's been a great journey so far💪🏾.  
+# Hi There 👋🏾,
 
-## I'm currently learning about
+## A few things about me
 
-🧰 Design Systems<br/>
-⚙ Building APIs
-🗺 Software Engineering Workflows <br/>
-🤯 Web Standards & Future Web <br/>
-👨🏾‍🦳 JavaScript (TypeScript) & recently C# <br/>
-📱 Cross-platform mobile development with React Native <br/>
-☁ cloud computing & serverless <br/>
-🍽 Making great food. On every attempt.
-
-I mostly work with ⚛ ReactJS & Friends (Emotion, Storybook, Ant Design, Jest, etc) on the frontend. Currently dipping my toes into fullstack development.
+- Exploring software engineering
+- Learning to build stellar frontend experiences
+- Mastering data structures and algorithms
+- Interested in low-level programming languages
+- Looking to contribute to open source
 
 There's a lot to learn in so little time and I honestly can't wait🔥. If you're as excited as I am, you could drop me a DM on [Twitter](https://twitter.com/vick_OnRails) and let's be internet friends 😊

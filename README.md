@@ -2,6 +2,7 @@
 
 ## A few things about me
 
+- I live on Bitbucket now 😅
 - Exploring software engineering
 - Learning to build stellar frontend experiences
 - Mastering data structures and algorithms

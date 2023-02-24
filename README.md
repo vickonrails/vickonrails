@@ -1,12 +1,9 @@
-# Hi There 👋🏾,
+## Hi 👋🏾,
 
-## A few things about me
 
-- I live on Bitbucket now 😅
-- Exploring software engineering
-- Learning to build stellar frontend experiences
-- Mastering data structures and algorithms
-- Interested in low-level programming languages
-- Looking to contribute to open source
+I have 5 years experience as a software engineer, building tools in government, online publishing and content management. I work on the frontend nowadays, but I have experience building backends in nodejs, C#, etc. I also enjoy building open source tools to solve basic problems I encounter everyday. Here are a few... 
 
-There's a lot to learn in so little time and I honestly can't wait🔥. If you're as excited as I am, you could drop me a DM on [Twitter](https://twitter.com/vick_OnRails) and let's be internet friends 😊
+### projects
+- [🥑avocado-ui](https://github.com/vickonrails/avocado-ui) - an experimental design system for my side projects
+- 👩🏾‍💻job quest - coming soon...
+

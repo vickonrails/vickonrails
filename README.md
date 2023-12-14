@@ -1,9 +1,4 @@
 ## Hi 👋🏾,
 
 
-I have 5 years experience as a software engineer, building tools in government, online publishing and content management. I work on the frontend nowadays, but I have experience building backends in nodejs, C#, etc. I also enjoy building open source tools to solve basic problems I encounter everyday. Here are a few... 
-
-### projects
-- [🥑avocado-ui](https://github.com/vickonrails/avocado-ui) - an experimental design system for my side projects
-- 👩🏾‍💻job quest - coming soon...
-
+I have 5 years experience as a software engineer, building tools and products that help people achieve more. I have previously worked for companies like [Staffbase](https://staffbase.com/), [Contentful](https://contentful.com), etc. Right now I am available for <b>senior frontend-focused positions</b> to build more tools to help people achieve more. I bring a ton of experience building design systems, also for accessibility and performance. Feel free to reach out! 
